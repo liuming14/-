@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T08:56:12.745Z" agent="5.0 (Windows)" etag="YmMyiZX3YB7xKujGIybt" version="13.10.1" type="github"><diagram id="FFt84hnDlbXeYh4UH9vT" name="Page-1">5Vpdc5s4FP01ekyHb8SjsZ10M91uZ/2w7VMHGwXoyojKIrb31+8ViGAwdtwG/NHOeMbSQUJC555zkWxkjpebBx5k8Z8sJBQZWrhB5gQZhq6ZGL4ksi0R23VLIOJJqBrVwCz5j1Q9FZonIVk1GgrGqEiyJrhgaUoWooEFnLN1s9kTo81RsyAie8BsEdB99J8kFHGJYlur8fckieJqZF1TV5ZB1VgBqzgI2XoHMqfIHHPGRFlabsaEysWr1qXsd3/g6svEOEnFKR28J//h6a9Nfj/3Zu7jPfny9Y/5nafmJrbVA5MQnl9VGRcxi1ga0GmN+pzlaUjkXTWo1W0+MJYBqAP4jQixVWQGuWAAxWJJ1VWYMN9+lv3f2VX1i7pdUZlsGrWtqu0/sVqEFcv5Qs1/Fubfovcf/36kc+058ZLPXx+NuypyAh4RcWQ5VDu5BjsDqPV8IGxJYD7QgBMaiOS5GSOBCrXopV3NBhQUId3kHJv1c0BzNRIyHArz97MGZ873XAaRT5OU3MUqGkfQRHchJGwoFIsHwZ+Ku1XBirxqONmm7gylSH0XQ8jGnaOcdpepjfwxwposjFyE5fh7n3IkWJtysOYEAM5qrB2llIIDyGhcx4kgsywo+F+DCTVj7WDMPBMuyOYoy+qqaSoFKwszqvq6NgTdUli8Ywae9vbA6A5TbX9Bbly2x+T4qmyNS8n22Kw7ZPs2TT18RFOMsI68EZq6yNeR77+ipFaQNEPgDMqR5rOjHBN3KMfuUI47mHL0vUX5JZVjnKgc86qUYwykHKkbEA1IR+pmikaWTEsYwEmdnyQyRp6zo6c570hKV6awZm6y9Q6FOWdVmPF7KMw8UWHWVSnMPKPCMPLv0QgUZslENTJvKFE51qUTleF2MHVEVylLexHSzwvCOlEQ9lUJwhpQEL6GsImmDvJgM2QVBZCCp5Th+TckCNe9uCCcywiiziyNvFKnmQOZpah9IjyBxyf8zenGvkl1GfiqORqeDueq6LAHMzsXeZDrwdo85IG72YXZ+ZXrOdIKb+m12rabr9VXYH/HT2ovn/6dExXhXpUizOMnab0blH4ugzqVjt4PAFTXTywpHEUJynKbgnLaQiknqnrVpI44D7Y7zTLZYHV4HIyt1jh2K0bKO9YR8/KMPx9EXW8mfdkq7JwwliYKG6mRURxSuAg71fmFh4w3OmvMlvN89bqrNjXQg8e6rZBwq1fOHY8F9J2977IvJxq9+0HXrqtHKr1yOzCR2fKHTm5P/r2jd5p0rc2T05ELz/vzx3Aswf4MIzyRLMkzC73Yq0H5Rw4vYGFFk5SV4OxfMmaU8TqpPCWUtqCAJlEK1QXQJfcMvqQpWQR0pC4skzCkh6Kgf4W2fvhy7A7mcQfzujEY9Xgw6jsZ//1I96y2LQ9IOlTrP0CU6bj+G4k5/R8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-25T01:01:02.048Z" agent="5.0 (Windows)" etag="a_K34Ubqm8gbzoc6ZXJc" version="14.1.8" type="github">
+  <diagram id="FFt84hnDlbXeYh4UH9vT" name="Page-1">
+    <mxGraphModel dx="1038" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SdujgHNRJlb0vi9iX_J2-1" target="9fBGfOxuFb9S7JFeY_Ib-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SdujgHNRJlb0vi9iX_J2-1" value="&lt;p style=&quot;line-height: 170% ; font-size: 26px&quot;&gt;算例输入&lt;br&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="310" y="260" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9fBGfOxuFb9S7JFeY_Ib-1" target="9fBGfOxuFb9S7JFeY_Ib-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-1" value="&lt;font style=&quot;font-size: 26px&quot;&gt;用频装备聚类  &lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="317.5" y="380" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9fBGfOxuFb9S7JFeY_Ib-2" target="9fBGfOxuFb9S7JFeY_Ib-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-2" value="&lt;font style=&quot;font-size: 26px&quot;&gt;蚁群初始化 &lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="510" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9fBGfOxuFb9S7JFeY_Ib-3" target="9fBGfOxuFb9S7JFeY_Ib-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-3" value="&lt;font style=&quot;font-size: 26px&quot;&gt;蚁群迭代 &lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="325" y="640" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-27" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9fBGfOxuFb9S7JFeY_Ib-4" target="9fBGfOxuFb9S7JFeY_Ib-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-4" value="&lt;font style=&quot;font-size: 26px&quot;&gt;调整改进 &lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="325" y="770" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-26" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9fBGfOxuFb9S7JFeY_Ib-5" target="9fBGfOxuFb9S7JFeY_Ib-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9fBGfOxuFb9S7JFeY_Ib-5" target="9fBGfOxuFb9S7JFeY_Ib-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-5" value="&lt;font style=&quot;font-size: 26px&quot;&gt;矩阵更新 &lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="770" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9fBGfOxuFb9S7JFeY_Ib-6" target="9fBGfOxuFb9S7JFeY_Ib-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9fBGfOxuFb9S7JFeY_Ib-6" target="9fBGfOxuFb9S7JFeY_Ib-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="884" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-6" value="&lt;font style=&quot;font-size: 26px&quot;&gt;终止准则  &lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="770" y="725" width="227.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-7" value="&lt;font style=&quot;font-size: 26px&quot;&gt;结束  &lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="760" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-17" value="&lt;font style=&quot;font-size: 26px&quot;&gt;不满足 &lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="730" y="650" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9fBGfOxuFb9S7JFeY_Ib-18" value="&lt;font style=&quot;font-size: 26px&quot;&gt;满足  &lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="940" y="720" width="180" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
