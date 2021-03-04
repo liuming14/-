@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T15:13:57.569Z" agent="5.0 (Windows)" etag="Wz_MrsMDSYto_u70tvaX" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T15:16:25.379Z" agent="5.0 (Windows)" etag="j5ZuuxZrK_MClCYCGCQm" version="14.4.4" type="github">
   <diagram id="UQyLXl9a_MGCBrZ4A5Hq" name="Page-1">
     <mxGraphModel dx="1384" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -538,16 +538,16 @@
         <mxCell id="qw-UVNlcl3JzZN6nI1bn-477" value="&lt;pre style=&quot;font-size: 35px&quot;&gt;&lt;font style=&quot;font-size: 35px&quot;&gt;(a)用频装备节点按编号排列&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="280" y="680" width="235" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qw-UVNlcl3JzZN6nI1bn-589" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="qw-UVNlcl3JzZN6nI1bn-589" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="110" y="810" width="630" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="qw-UVNlcl3JzZN6nI1bn-590" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBorderColor=#000000;" vertex="1" parent="qw-UVNlcl3JzZN6nI1bn-589">
+        <mxCell id="qw-UVNlcl3JzZN6nI1bn-590" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBorderColor=#000000;strokeColor=#FF66FF;" vertex="1" parent="qw-UVNlcl3JzZN6nI1bn-589">
           <mxGeometry width="630" height="39" as="geometry" />
         </mxCell>
         <mxCell id="qw-UVNlcl3JzZN6nI1bn-591" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="qw-UVNlcl3JzZN6nI1bn-590">
           <mxGeometry width="39" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="qw-UVNlcl3JzZN6nI1bn-592" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="qw-UVNlcl3JzZN6nI1bn-590">
+        <mxCell id="qw-UVNlcl3JzZN6nI1bn-592" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;labelBorderColor=#FFFFFF;horizontal=1;verticalAlign=middle;" vertex="1" parent="qw-UVNlcl3JzZN6nI1bn-590">
           <mxGeometry x="39" width="40" height="39" as="geometry" />
         </mxCell>
         <mxCell id="qw-UVNlcl3JzZN6nI1bn-593" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="qw-UVNlcl3JzZN6nI1bn-590">
