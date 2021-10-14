@@ -1,71 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T09:27:30.885Z" agent="5.0 (Windows)" etag="2xWAt_jmrEBtF4Z9Xizl" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-14T09:32:44.588Z" agent="5.0 (Windows)" etag="wzo89F9Fz-Ph54QwD29_" version="15.4.1" type="github">
   <diagram id="NcxHM6aMuup1c_UabWmQ" name="第 1 页">
-    <mxGraphModel dx="1888" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2926" dy="2232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4zRiaF9kJpAkM4hMu52U-5" value="" style="shape=mxgraph.signs.transportation.sea_plane;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="224.5" y="392" width="99" height="68" as="geometry" />
+          <mxGeometry x="-80" y="490" width="99" height="68" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-6" value="" style="shape=mxgraph.signs.transportation.tank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="668" y="338" width="100" height="50" as="geometry" />
+          <mxGeometry x="320" y="100" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-7" value="" style="shape=mxgraph.signs.transportation.ship_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="350" y="310" width="99" height="98" as="geometry" />
+          <mxGeometry x="250" y="490" width="99" height="98" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/military-and-army-2/64/Army_1-09-128.png" vertex="1" parent="1">
-          <mxGeometry x="690" y="150" width="128" height="128" as="geometry" />
+          <mxGeometry x="-290" y="-256" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/vehicle-37/24/Tank-128.png" vertex="1" parent="1">
-          <mxGeometry x="520" y="240" width="128" height="128" as="geometry" />
+          <mxGeometry x="-94.5" y="250" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/wpzoom-developer-icon-set/500/50-128.png" vertex="1" parent="1">
-          <mxGeometry x="-100" y="240" width="128" height="128" as="geometry" />
+          <mxGeometry x="-510" y="260" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="4zRiaF9kJpAkM4hMu52U-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/web-development-and-studio/512/44_satellite_antenna_radar_space_dish_space-128.png" vertex="1" parent="1">
-          <mxGeometry x="540" y="440" width="128" height="128" as="geometry" />
+        <mxCell id="4zRiaF9kJpAkM4hMu52U-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/web-development-and-studio/512/44_satellite_antenna_radar_space_dish_space-128.png;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="680" y="340" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-17" value="" style="shape=mxgraph.signs.transportation.tank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="568" y="390" width="100" height="50" as="geometry" />
+          <mxGeometry x="450" y="310" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/airport-solid-prepare-for-take-off/512/radar-128.png" vertex="1" parent="1">
-          <mxGeometry x="-28" y="296" width="128" height="128" as="geometry" />
+          <mxGeometry x="-500" y="112" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/mobile-smart-phone/64/satellite_map_signal_serivice_location_navigation-128.png" vertex="1" parent="1">
-          <mxGeometry x="195.5" width="128" height="128" as="geometry" />
+          <mxGeometry x="297" y="-420" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-22" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite;" vertex="1" parent="1">
-          <mxGeometry x="50" y="25" width="100" height="100" as="geometry" />
+          <mxGeometry x="60" y="-380" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48x48-free-object-icons/48/Rocket_v2.png" vertex="1" parent="1">
-          <mxGeometry x="648" y="192" width="48" height="48" as="geometry" />
+          <mxGeometry x="660" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/journalist-4/64/news-car-announcement-advertisement-broadcast-128.png" vertex="1" parent="1">
-          <mxGeometry x="140" y="460" width="128" height="128" as="geometry" />
+          <mxGeometry x="270" y="182" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/army-glyph-1/512/luxury_ship_ship_watercraft_military-128.png" vertex="1" parent="1">
-          <mxGeometry x="340" y="408" width="128" height="128" as="geometry" />
+          <mxGeometry x="80" y="460" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/army-glyph-1/512/Military_military_tank_military-128.png" vertex="1" parent="1">
-          <mxGeometry x="722" y="440" width="128" height="128" as="geometry" />
+          <mxGeometry x="32" y="190" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/army-glyph-1/512/weapons_fulled_ship_watercraft_military-128.png" vertex="1" parent="1">
-          <mxGeometry x="459" y="520" width="128" height="128" as="geometry" />
+          <mxGeometry x="-240" y="510" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/army-glyph-1/512/grenade_military_navy_plan_military-128.png" vertex="1" parent="1">
-          <mxGeometry x="480" y="125" width="128" height="128" as="geometry" />
+          <mxGeometry x="169" y="-140" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/army-glyph-1/512/Chopper_flight_helicopter_military-128.png" vertex="1" parent="1">
-          <mxGeometry x="212" y="140" width="128" height="128" as="geometry" />
+          <mxGeometry x="-28" y="-60" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/army-glyph-1/512/tank_war_war_tank_weapon_military-128.png" vertex="1" parent="1">
-          <mxGeometry x="680" y="530" width="128" height="128" as="geometry" />
+          <mxGeometry x="-240" y="190" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/weapon-10/512/army_military_war_weapon_navy_aviation_jet_-128.png" vertex="1" parent="1">
-          <mxGeometry x="297" y="600" width="128" height="128" as="geometry" />
+          <mxGeometry x="-170" y="-128" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="4zRiaF9kJpAkM4hMu52U-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/rocket-128.png" vertex="1" parent="1">
-          <mxGeometry x="361" y="180" width="128" height="128" as="geometry" />
+          <mxGeometry x="-500" y="-160" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="4zRiaF9kJpAkM4hMu52U-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/smart-technology-10/70/Smart_Technology-13-128.png" vertex="1" parent="1">
+          <mxGeometry x="552" y="-320" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
